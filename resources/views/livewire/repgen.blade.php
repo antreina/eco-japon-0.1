@@ -12,7 +12,7 @@
         <br>
         <H2 class="text-center">ECO-JAPON</H2> </div>
         <br>
-        <H2 class="text-center">REPORTE DE USUARIOS </H2> </div>
+        <H2 class="text-center">REPORTE DE USUARIOS</H2> </div>
       <table class="table table-striped">
         <br>
         <thead>

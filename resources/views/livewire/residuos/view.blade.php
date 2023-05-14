@@ -11,7 +11,7 @@
                         <th>Estado</th>
                         <th>Cant.</th>
                         @if(Auth::user()->cedula=='1722352695')
-                        <th><a class="text-danger" href="reporte" >PDF</a></th>
+                        <th><a class="text-danger" href="/reportes/reporte" >PDF</a></th>
                         @endif
                     </tr>
                 </thead>

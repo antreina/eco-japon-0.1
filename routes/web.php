@@ -31,5 +31,5 @@ Auth::routes();
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::get('/usuarios', [UsuariosController::class,'index']);
 Route::get('/residuos', [ResiduosController::class,'index']);
-Route::get('/reporte', [ResiduosController::class, 'generarReporte']);
+Route::get('reportes/reporte', [ResiduosController::class, 'generarReporte']);
 Route::get('/reporte', [UserController::class, 'generarReporte']);

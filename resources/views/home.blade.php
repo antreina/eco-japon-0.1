@@ -224,6 +224,17 @@
       <div class="container">      
           <img class="mx-auto d-flex" style="width: 25%" src="imagen/002.png" alt="logos">
        </div>
+
+       <div class="container">
+        <h3 class="fst-italic">Elaborado por: Estudiantes 3° de Software</h3>
+        <p class="fst-italic">
+          Juan Castillo,
+          Esteban Mejia,
+          Pablo Ramos,
+          Luis Reina,
+          Cesar Reinos.
+        </p>
+       </div>
     </section>
 </div>
 @endsection

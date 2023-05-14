@@ -664,6 +664,18 @@
         Eco-Japón
         
       </h2> --}}
+      <br>
+
+      <div class="container">
+        <h3 >Elaborado por: Estudiantes 3° de Software</h3>
+        <p >
+          Juan Castillo,
+          Esteban Mejia,
+          Pablo Ramos,
+          Luis Reina,
+          Cesar Reinos.
+        </p>
+       </div>
       
       {{-- <div class="w-full mb-4">
         <div class="h-1 mx-auto bg-white w-1/6 opacity-25 my-0 py-0 rounded-t"></div>
